@@ -1,1 +1,1 @@
-# orangepizero2_guide
+# Orange Pi Zero 2 Armbian Legacy Kernel Guide
