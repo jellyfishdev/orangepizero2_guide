@@ -1,6 +1,11 @@
-# **Armbian Orange Pi Zero 2 Armbian Legacy Kernel**
+# **Orange Pi Zero 2 with Armbian Legacy Kernel**
 
-[Armbian](https://docs.armbian.com/) is a free and open-source operating system for ARM devices, such as single-board computers, smartphones, and tablets. It is based on the Linux kernel and is designed to run on ARM-based devices that use ARM Cortex-A series processors.
+<div>
+<p style='text-align:center'>
+<a href='https://docs.armbian.com/'>Armbian<a/> is a free and open-source operating system for ARM devices, such as single-board computers, smartphones, and tablets. It is based on the Linux kernel and is designed to run on ARM-based devices that use ARM Cortex-A series processors.
+</p>
+</div>
+
 
 <div style='display:inline-block' align='center'>
 ✔️ Wifi  
@@ -16,18 +21,16 @@
 
 
 
-
-**Requirements:**
-
--Orange Pi Zero 2.
-
--Power Source.
-
--SDCard. Class 1(A1) or Class 2(A2)
-
--Ethernet Cable.
-
--Router Access.
+<div align='center'>
+  <h3>Requirements:</h3>
+  <div style='display:inline-block'>
+    Orange Pi Zero 2.
+    Power Source.  
+    SDCard. Class 1(A1) or Class 2(A2)
+    Ethernet Cable.
+    Router Access.
+  </div>
+</div>
 
 **Steps:**
 1. Clone Armbian build from the github repo.
